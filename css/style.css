@@ -12061,6 +12061,7 @@ input[type=text] {
 .gj-logo {
 	width: 115px;
 }
+
 .project-detail-section > h1 {
 	text-align: center;
 	font-size: 50px;
@@ -12105,18 +12106,9 @@ form {
 	padding-top: 50px;
 	padding-left: 30px;
 }
- /* .overall-head{
-	font-weight:700;
-	font-family:var(--font-family-BeVietnam);s
-	font-size:var(--font-32);
-	color:var(--color-fourty);
-	margin-bottom:var(--margin-bottom-15);
-}  */
+
 .sub-btn{
 	background-color: #cd201f;
-}
-.last-section {
-	/* padding: 10px 0 20px 0; */
 }
 .brush-heading {
 font-size: 50px;

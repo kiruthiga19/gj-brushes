@@ -235,8 +235,8 @@
 		visibility:hidden;
 		opacity:0;
 	}
-	`	
-}
+	}	
+
 
 @media only screen and (max-width: 1023px){
 	
@@ -290,7 +290,6 @@
 		padding-bottom:0px;
 		text-align:center;
 	}
-	
 	.main-header{
 		position:relative;
 	}
@@ -527,15 +526,7 @@
 	.faq-section .accordion-column .upper-text{
 		margin-top:var(--margin-zero);
 	}
-	
-	.header-style-three .header-lower .inner-container{
-		
-	}
-	
-	.header-style-three .logo-box{
-		padding:15px 0px;
-	}
-	
+
 	.header-style-three .nav-outer{
 		width:auto;
 		float:left;
