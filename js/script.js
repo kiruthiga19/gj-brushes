@@ -557,13 +557,13 @@
 					items:2
 				},
 				1024:{
-					items:3
+					items:2
 				},
 				1200:{
-					items:4
+					items:2
 				},
 				1500:{
-					items:4
+					items:2
 				}
 			}
 		});    		
